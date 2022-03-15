@@ -1,0 +1,16 @@
+name: coastalvegedge-detection-scivision
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - jupyter
+  - matplotlib
+  - numpy
+  - scipy
+  - pandas
+  - fsspec
+  - pyyaml
+  - requests
+  - aiohttp
+  - intake
+  - intake-xarray
