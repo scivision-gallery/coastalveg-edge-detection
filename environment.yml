@@ -15,4 +15,4 @@ dependencies:
   - intake
   - intake-xarray
   - pip:
-        - git+https://github.com/alan-turing-institute/scivision.git@master
+        - git+https://github.com/alan-turing-institute/scivision.git
