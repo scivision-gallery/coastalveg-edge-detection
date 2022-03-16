@@ -22,4 +22,4 @@ You may also download the notebook from GitHub to run it locally:
 * Launch the jupyter interface of your preference, notebook, `jupyter notebook` or lab `jupyter lab`
 
 ## Acknowledgment 
-This notebook was supported by [Rogers et al. (2021)](https://www.tandfonline.com/doi/abs/10.1080/01431161.2021.1897185?journalCode=tres20)'s research. The scivision team thanks the model maintainer and collaborators involved in the deployment of the `VEdge_detector` model, in particular Martin Rogers (British Antarctic Survey) for his feedback in the preparation of the scivision model plugin and sample images provided for this notebook.
+This notebook was supported by [Rogers et al. (2021)](https://www.tandfonline.com/doi/abs/10.1080/01431161.2021.1897185?journalCode=tres20)'s research. The scivision team thanks the model maintainer and collaborators involved in the deployment of the `VEdge_detector` model, in particular [Martin Rogers](https://www.bas.ac.uk/profile/user_3491-2/) (British Antarctic Survey) for his feedback in the preparation of the scivision model plugin and sample images provided for this notebook.
