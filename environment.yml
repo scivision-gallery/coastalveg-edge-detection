@@ -14,5 +14,6 @@ dependencies:
   - aiohttp
   - intake
   - intake-xarray
+  - pip
   - pip:
         - git+https://github.com/alan-turing-institute/scivision.git
