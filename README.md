@@ -1,7 +1,3 @@
-# 
-
-[![Binder](https://mybinder.org/badge_logo.svg)]()
-
 <div align="center">
     <h1>Coastal Vegetation Edge Detection</h1>
 </div>
