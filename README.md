@@ -15,6 +15,17 @@
     <br/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/scivision-gallery/coastalveg-edge-detection/blob/main/figs/VEdge_detector_prediction_example.png?raw=true" 
+        alt="VEdge_Detector prediction over a sample PlanetScope satellite" width="90%" align="center">
+</p>
+
+<p align="center">
+    <em>
+    VEdge_Detector prediction of coastal vegetation edge over a sample PlanetScope satellite image in Winterton, UK. 
+    </em>
+</p>
+
 ## Abstract
 Recent advances in satellite imagery availability and spatial resolution are providing new opportunities for the rapid, cost-effective detection of a shoreline’s location and dynamics. [Rogers et al. (2021)](https://www.tandfonline.com/doi/abs/10.1080/01431161.2021.1897185?journalCode=tres20) advance in coastal vegetation monitoring by developing `VEdge_detector`, a tool to extract the coastal vegetation line from remote-sensing imagery, training a very deep convolutional neural network (holistically nested edge detection), to predict sequential vegetation line locations on annual to decadal timescales. The `VEdge_Detector` model was trained using Planet 3 – 5 m spatial resolution imagery. It has also detected vegetation edges in Landsat and Copernicus Sentinel imagery, although performance is not guaranteed. The tool cannot detect the vegetation edge in aerial imagery.
 
