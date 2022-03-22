@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://github.com/scivision-gallery/coastalveg-edge-detection/blob/main/figs/VEdge_detector_prediction_example.png?raw=true" 
-        alt="VEdge_Detector prediction over a sample PlanetScope satellite" width="90%" align="center">
+        alt="VEdge_Detector prediction over a sample PlanetScope satellite" width="70%" align="center">
 </p>
 
 <p align="center">
